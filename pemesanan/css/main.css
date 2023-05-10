@@ -1,0 +1,332 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v65_231 {
+  width: 100%;
+  height: 1024px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v223_154 {
+  width: 100%;
+  height: 87px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 35px;
+  left: 42px;
+  overflow: hidden;
+}
+.v223_155 {
+  width: 100%;
+  height: 87px;
+  background: url("../images/v223_155.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v223_156 {
+  width: 262px;
+  height: 87px;
+  background: url("../images/v223_156.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v223_157 {
+  width: 443px;
+  height: 31px;
+  background: url("../images/v223_157.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 21px;
+  left: 846px;
+  overflow: hidden;
+}
+.v223_158 {
+  width: 93px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 0px;
+  left: 114px;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: Forum;
+  font-weight: Regular;
+  font-size: 28px;
+  opacity: 1;
+  text-align: left;
+}
+.v223_159 {
+  width: 68px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 0px;
+  left: 247px;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: Forum;
+  font-weight: Regular;
+  font-size: 28px;
+  opacity: 1;
+  text-align: left;
+}
+.v223_160 {
+  width: 80px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 0px;
+  left: 363px;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: Forum;
+  font-weight: Regular;
+  font-size: 28px;
+  opacity: 1;
+  text-align: left;
+}
+.v223_161 {
+  width: 68px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: Forum;
+  font-weight: Regular;
+  font-size: 28px;
+  opacity: 1;
+  text-align: left;
+}
+.v223_162 {
+  width: 111px;
+  height: 41px;
+  background: rgba(217,217,217,0);
+  opacity: 1;
+  position: absolute;
+  top: 16px;
+  left: 950px;
+  border: 2px solid rgba(0,0,0,1);
+  overflow: hidden;
+}
+.v223_163 {
+  width: 111px;
+  height: 41px;
+  background: rgba(217,217,217,0);
+  opacity: 1;
+  position: absolute;
+  top: 16px;
+  left: 828px;
+  border: 2px solid rgba(0,0,0,1);
+  overflow: hidden;
+}
+.v223_164 {
+  width: 111px;
+  height: 41px;
+  background: rgba(217,217,217,0);
+  opacity: 1;
+  position: absolute;
+  top: 16px;
+  left: 1194px;
+  border: 2px solid rgba(0,0,0,1);
+  overflow: hidden;
+}
+.v223_165 {
+  width: 111px;
+  height: 41px;
+  background: rgba(217,217,217,0);
+  opacity: 1;
+  position: absolute;
+  top: 16px;
+  left: 1072px;
+  border: 2px solid rgba(0,0,0,1);
+  overflow: hidden;
+}
+.v90_677 {
+  width: 1159px;
+  height: 758px;
+  background: rgba(0,0,0,0.8899999856948853);
+  opacity: 1;
+  position: absolute;
+  top: 133px;
+  left: 141px;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  overflow: hidden;
+}
+.v90_678 {
+  width: 548px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 191px;
+  left: 446px;
+  font-family: Forum;
+  font-weight: Regular;
+  font-size: 38px;
+  opacity: 1;
+  text-align: center;
+}
+.v90_679 {
+  width: 310px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 322px;
+  left: 213px;
+  font-family: Forum;
+  font-weight: Regular;
+  font-size: 35px;
+  opacity: 1;
+  text-align: left;
+}
+.v90_680 {
+  width: 713px;
+  height: 50px;
+  background: rgba(217,217,217,0.4000000059604645);
+  opacity: 1;
+  position: absolute;
+  top: 322px;
+  left: 523px;
+  overflow: hidden;
+}
+.v90_681 {
+  width: 713px;
+  height: 50px;
+  background: rgba(217,217,217,0.4000000059604645);
+  opacity: 1;
+  position: absolute;
+  top: 401px;
+  left: 523px;
+  overflow: hidden;
+}
+.v90_682 {
+  width: 713px;
+  height: 50px;
+  background: rgba(217,217,217,0.4000000059604645);
+  opacity: 1;
+  position: absolute;
+  top: 474px;
+  left: 523px;
+  overflow: hidden;
+}
+.v90_683 {
+  width: 713px;
+  height: 50px;
+  background: rgba(217,217,217,0.4000000059604645);
+  opacity: 1;
+  position: absolute;
+  top: 549px;
+  left: 523px;
+  overflow: hidden;
+}
+.v90_684 {
+  width: 713px;
+  height: 50px;
+  background: rgba(217,217,217,0.4000000059604645);
+  opacity: 1;
+  position: absolute;
+  top: 625px;
+  left: 523px;
+  overflow: hidden;
+}
+.v92_141 {
+  width: 171px;
+  height: 50px;
+  background: url("../images/v92_141.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 750px;
+  left: 635px;
+  overflow: hidden;
+}
+.v92_142 {
+  width: 171px;
+  height: 50px;
+  background: rgba(116,115,113,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v92_143 {
+  width: 70px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 10px;
+  left: 54px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v231_243 {
+  width: 310px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 401px;
+  left: 213px;
+  font-family: Forum;
+  font-weight: Regular;
+  font-size: 35px;
+  opacity: 1;
+  text-align: left;
+}
+.v231_245 {
+  width: 310px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 474px;
+  left: 213px;
+  font-family: Forum;
+  font-weight: Regular;
+  font-size: 35px;
+  opacity: 1;
+  text-align: left;
+}
+.v231_246 {
+  width: 310px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 549px;
+  left: 213px;
+  font-family: Forum;
+  font-weight: Regular;
+  font-size: 35px;
+  opacity: 1;
+  text-align: left;
+}
+.v231_247 {
+  width: 310px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 625px;
+  left: 213px;
+  font-family: Forum;
+  font-weight: Regular;
+  font-size: 35px;
+  opacity: 1;
+  text-align: left;
+}
